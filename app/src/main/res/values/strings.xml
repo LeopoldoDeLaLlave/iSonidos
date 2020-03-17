@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iSonidos</string>
+    <string name="sonido01">Tomate</string>
+    <string name="sonido02">Chulo</string>
+    <string name="sonido03">Vanidoso</string>
+    <string name="sonido04">Mechero</string>
+    <string name="sonido05">Loco1</string>
+    <string name="sonido06">Loco2</string>
+    <string name="sonido07">Animal</string>
+    <string name="sonido08">Nada</string>
+    <string name="sonido09">Kinder</string>
+    <string name="sonido10">Cigarrito</string>
+    <string name="sonido11">Chirie</string>
+    <string name="sonido12">Hijo</string>
+
+</resources>
